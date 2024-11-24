@@ -1,0 +1,19 @@
+class_id,aircraft_id,total_ticket_price
+Bussiness,767-301ER,2719
+Bussiness,A321,1825
+Bussiness,CRJ900,980
+Bussiness,ERJ142,510
+Bussiness,NULL,6034
+Economy,767-301ER,1000
+Economy,A321,460
+Economy,ERJ142,530
+Economy,NULL,1990
+"Economy Plus",A321,800
+"Economy Plus",CRJ900,675
+"Economy Plus",ERJ142,985
+"Economy Plus",NULL,2460
+"First Class",767-301ER,1915
+"First Class",A321,1185
+"First Class",CRJ900,1785
+"First Class",NULL,4885
+NULL,NULL,15369
